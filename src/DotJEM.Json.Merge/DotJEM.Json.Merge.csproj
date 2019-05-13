@@ -1,9 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Copyright>Copyright © DotJEM 2019</Copyright>
-    <PackageLicenseExpression>https://github.com/dotJEM/json-merge/blob/master/LICENSE</PackageLicenseExpression>
+    <PackageLicenseUrl>https://github.com/dotJEM/json-merge/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/dotJEM/json-merge</PackageProjectUrl>
     <RepositoryUrl>https://github.com/dotJEM/json-merge</RepositoryUrl>
   </PropertyGroup>
