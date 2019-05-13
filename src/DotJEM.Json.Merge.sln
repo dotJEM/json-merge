@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotJEM.Json.Merge", "DotJEM.Json.Merge\DotJEM.Json.Merge.csproj", "{FF8BC362-C3FB-4DEA-9E8C-F06978BAA369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotJEM.Json.Merge.Test", "DotJEM.Json.Merge.Test\DotJEM.Json.Merge.Test.csproj", "{75FB08A5-3028-4042-B538-9B6680CE9B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8BC362-C3FB-4DEA-9E8C-F06978BAA369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8BC362-C3FB-4DEA-9E8C-F06978BAA369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8BC362-C3FB-4DEA-9E8C-F06978BAA369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8BC362-C3FB-4DEA-9E8C-F06978BAA369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FB08A5-3028-4042-B538-9B6680CE9B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FB08A5-3028-4042-B538-9B6680CE9B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FB08A5-3028-4042-B538-9B6680CE9B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FB08A5-3028-4042-B538-9B6680CE9B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC80B32-656E-4486-BAC6-FE5D437BC078}
+	EndGlobalSection
+EndGlobal
